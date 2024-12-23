@@ -1,0 +1,15 @@
+{
+  "id": 15,
+  "title": "Transpose values",
+  "description": "Transpose the names in cells A7-A11 to row 17.",
+  "group": "B",
+  "resets": 0,
+  "language": "ENGLISH",
+  "taskNumber": 13,
+  "startTimeWatching": "2023-12-16T14:24:20.736Z",
+  "endTimeWatching": "2023-12-16T14:24:57.748Z",
+  "timeWatching": 37012,
+  "startTimeDrawing": "2023-12-16T14:24:57.748Z",
+  "endTimeDrawing": "2023-12-16T14:25:07.305Z",
+  "timeDrawing": 9557
+}

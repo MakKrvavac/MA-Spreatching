@@ -1,0 +1,83 @@
+1,Neutral,8
+1,satisfied,12
+1,very satisfied,16
+2,Neutral,6
+2,satisfied,12
+2,very satisfied,18
+3,Neutral,5
+3,unsatisfied,1
+3,satisfied,13
+3,very satisfied,17
+4,Neutral,9
+4,unsatisfied,1
+4,satisfied,13
+4,very satisfied,13
+5,unsatisfied,1
+5,Neutral,12
+5,very unsatisfied,1
+5,satisfied,10
+5,very satisfied,12
+6,Neutral,3
+6,satisfied,15
+6,very satisfied,18
+7,Neutral,10
+7,unsatisfied,1
+7,satisfied,10
+7,very satisfied,15
+8,Neutral,5
+8,satisfied,17
+8,very satisfied,14
+9,Neutral,13
+9,unsatisfied,8
+9,satisfied,7
+9,very satisfied,8
+10,Neutral,10
+10,unsatisfied,3
+10,satisfied,10
+10,very satisfied,13
+11,Neutral,11
+11,unsatisfied,11
+11,very unsatisfied,1
+11,satisfied,7
+11,very satisfied,6
+12,Neutral,12
+12,unsatisfied,1
+12,satisfied,12
+12,very satisfied,11
+13,Neutral,14
+13,unsatisfied,1
+13,very unsatisfied,1
+13,satisfied,11
+13,very satisfied,9
+14,unsatisfied,5
+14,Neutral,10
+14,satisfied,14
+14,very satisfied,7
+15,unsatisfied,7
+15,Neutral,11
+15,satisfied,9
+15,very satisfied,9
+16,Neutral,13
+16,unsatisfied,5
+16,satisfied,12
+16,very satisfied,6
+17,Neutral,9
+17,unsatisfied,2
+17,very unsatisfied,1
+17,satisfied,16
+17,very satisfied,8
+18,unsatisfied,11
+18,Neutral,11
+18,very unsatisfied,3
+18,satisfied,9
+18,very satisfied,2
+19,unsatisfied,9
+19,Neutral,13
+19,very unsatisfied,4
+19,satisfied,6
+19,very satisfied,4
+20,unsatisfied,8
+20,Neutral,11
+20,very unsatisfied,1
+20,satisfied,10
+20,very satisfied,6

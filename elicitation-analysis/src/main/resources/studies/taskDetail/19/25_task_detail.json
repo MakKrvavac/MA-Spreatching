@@ -1,0 +1,15 @@
+{
+  "id": 19,
+  "title": "Bedingte Formatierung",
+  "description": "Definieren Sie eine bedingte Formatierungsregel für die Zellen C7-11, so dass Werte über 200 in rot und andere in grün angezeigt werden.",
+  "group": "C",
+  "resets": 0,
+  "language": "GERMAN",
+  "taskNumber": 20,
+  "startTimeWatching": "2024-02-04T18:59:05.895Z",
+  "endTimeWatching": "2024-02-04T19:00:07.162Z",
+  "timeWatching": 61267,
+  "startTimeDrawing": "2024-02-04T19:00:07.162Z",
+  "endTimeDrawing": "2024-02-04T19:00:10.871Z",
+  "timeDrawing": 3709
+}

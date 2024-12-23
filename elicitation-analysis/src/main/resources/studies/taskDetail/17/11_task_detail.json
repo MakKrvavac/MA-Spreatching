@@ -1,0 +1,15 @@
+{
+  "id": 17,
+  "title": "Calculate multiple sums",
+  "description": "For each month, calculate the sum of all employees' hours in cells E13-J13.",
+  "group": "C",
+  "resets": 2,
+  "language": "ENGLISH",
+  "taskNumber": 16,
+  "startTimeWatching": "2024-01-29T16:06:52.680Z",
+  "endTimeWatching": "2024-01-29T16:07:05.945Z",
+  "timeWatching": 13265,
+  "startTimeDrawing": "2024-01-29T16:07:05.945Z",
+  "endTimeDrawing": "2024-01-29T16:07:12.540Z",
+  "timeDrawing": 6595
+}

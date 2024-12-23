@@ -1,0 +1,15 @@
+{
+  "id": 16,
+  "title": "Sort data",
+  "description": "Sort the data in rows 7-11 alphabetically by the employee names in column A.",
+  "group": "C",
+  "resets": 0,
+  "language": "ENGLISH",
+  "taskNumber": 17,
+  "startTimeWatching": "2024-01-15T13:40:32.073Z",
+  "endTimeWatching": "2024-01-15T13:42:54.393Z",
+  "timeWatching": 142320,
+  "startTimeDrawing": "2024-01-15T13:42:54.393Z",
+  "endTimeDrawing": "2024-01-15T13:42:56.696Z",
+  "timeDrawing": 2303
+}

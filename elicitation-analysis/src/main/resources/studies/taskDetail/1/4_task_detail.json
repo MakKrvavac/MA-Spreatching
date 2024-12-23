@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "title": "Change value",
+  "description": "Enter the value 100 into cell F9.",
+  "group": "P",
+  "resets": 3,
+  "language": "ENGLISH",
+  "taskNumber": 2,
+  "startTimeWatching": "2024-02-07T13:32:00.310Z",
+  "endTimeWatching": "2024-02-07T13:32:27.764Z",
+  "timeWatching": 27454,
+  "startTimeDrawing": "2024-02-07T13:32:27.764Z",
+  "endTimeDrawing": "2024-02-07T13:32:45.645Z",
+  "timeDrawing": 17881
+}

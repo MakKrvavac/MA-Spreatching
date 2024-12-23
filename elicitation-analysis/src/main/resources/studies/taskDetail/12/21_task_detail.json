@@ -1,0 +1,15 @@
+{
+  "id": 12,
+  "title": "Tortendiagramm erstellen",
+  "description": "Erstellen Sie ein Tortendiagramm aus den Werten der Zellen E8-J8.",
+  "group": "B",
+  "resets": 1,
+  "language": "GERMAN",
+  "taskNumber": 11,
+  "startTimeWatching": "2023-11-26T22:00:18.185Z",
+  "endTimeWatching": "2023-11-26T22:00:23.833Z",
+  "timeWatching": 5648,
+  "startTimeDrawing": "2023-11-26T22:00:23.833Z",
+  "endTimeDrawing": "2023-11-26T22:00:26.103Z",
+  "timeDrawing": 2270
+}

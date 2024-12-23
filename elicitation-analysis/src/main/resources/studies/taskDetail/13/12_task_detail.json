@@ -1,0 +1,15 @@
+{
+  "id": 13,
+  "title": "Create bar chart",
+  "description": "Create a bar chart from the value in cells C7-C11.",
+  "group": "B",
+  "resets": 3,
+  "language": "ENGLISH",
+  "taskNumber": 13,
+  "startTimeWatching": "2024-01-15T10:59:19.569Z",
+  "endTimeWatching": "2024-01-15T10:59:53.259Z",
+  "timeWatching": 33690,
+  "startTimeDrawing": "2024-01-15T10:59:53.259Z",
+  "endTimeDrawing": "2024-01-15T11:00:16.540Z",
+  "timeDrawing": 23281
+}

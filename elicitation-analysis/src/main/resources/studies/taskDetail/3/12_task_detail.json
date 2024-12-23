@@ -1,0 +1,15 @@
+{
+  "id": 3,
+  "title": "Delete values",
+  "description": "Delete the contents of cells J7-J11.",
+  "group": "A",
+  "resets": 1,
+  "language": "ENGLISH",
+  "taskNumber": 3,
+  "startTimeWatching": "2024-01-15T10:44:55.405Z",
+  "endTimeWatching": "2024-01-15T10:45:23.584Z",
+  "timeWatching": 28179,
+  "startTimeDrawing": "2024-01-15T10:45:23.584Z",
+  "endTimeDrawing": "2024-01-15T10:45:31.125Z",
+  "timeDrawing": 7541
+}

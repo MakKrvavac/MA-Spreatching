@@ -1,0 +1,15 @@
+{
+  "id": 2,
+  "title": "Delete value",
+  "description": "Delete the contents of cell E8.",
+  "group": "P",
+  "resets": 0,
+  "language": "ENGLISH",
+  "taskNumber": 2,
+  "startTimeWatching": "2024-02-07T14:15:21.609Z",
+  "endTimeWatching": "2024-02-07T14:15:30.903Z",
+  "timeWatching": 9294,
+  "startTimeDrawing": "2024-02-07T14:15:30.903Z",
+  "endTimeDrawing": "2024-02-07T14:15:38.681Z",
+  "timeDrawing": 7778
+}

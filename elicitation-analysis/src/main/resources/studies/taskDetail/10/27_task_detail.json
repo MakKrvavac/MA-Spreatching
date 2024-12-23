@@ -1,0 +1,15 @@
+{
+  "id": 10,
+  "title": "Zellen umrahmen",
+  "description": "Fügen Sie einen einfachen Rahmen um die Zellen A15-C15 hinzu.",
+  "group": "B",
+  "resets": 0,
+  "language": "GERMAN",
+  "taskNumber": 9,
+  "startTimeWatching": "2024-01-30T17:55:01.485Z",
+  "endTimeWatching": "2024-01-30T17:55:56.290Z",
+  "timeWatching": 54805,
+  "startTimeDrawing": "2024-01-30T17:55:56.290Z",
+  "endTimeDrawing": "2024-01-30T17:55:58.399Z",
+  "timeDrawing": 2109
+}

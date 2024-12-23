@@ -1,0 +1,15 @@
+{
+  "id": 7,
+  "title": "Move cells",
+  "description": "Move cells A15-C15 to H3.",
+  "group": "A",
+  "resets": 0,
+  "language": "ENGLISH",
+  "taskNumber": 6,
+  "startTimeWatching": "2024-02-03T10:57:25.542Z",
+  "endTimeWatching": "2024-02-03T10:57:56.129Z",
+  "timeWatching": 30587,
+  "startTimeDrawing": "2024-02-03T10:57:56.129Z",
+  "endTimeDrawing": "2024-02-03T10:58:00.193Z",
+  "timeDrawing": 4064
+}

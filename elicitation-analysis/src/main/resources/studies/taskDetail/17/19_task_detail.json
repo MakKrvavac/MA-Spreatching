@@ -1,0 +1,15 @@
+{
+  "id": 17,
+  "title": "Mehrere Summen bilden",
+  "description": "Berechnen Sie für jeden Monat die Summe aller Mitarbeiterstunden in den Zellen E13-J13.",
+  "group": "C",
+  "resets": 0,
+  "language": "GERMAN",
+  "taskNumber": 19,
+  "startTimeWatching": "2024-03-16T14:59:40.067Z",
+  "endTimeWatching": "2024-03-16T15:00:19.456Z",
+  "timeWatching": 39389,
+  "startTimeDrawing": "2024-03-16T15:00:19.456Z",
+  "endTimeDrawing": "2024-03-16T15:00:23.019Z",
+  "timeDrawing": 3563
+}

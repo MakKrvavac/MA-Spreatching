@@ -1,0 +1,15 @@
+{
+  "id": 14,
+  "title": "Continue series",
+  "description": "Continue the series of values in row 6 (E6-J6) up to cell M6.",
+  "group": "B",
+  "resets": 1,
+  "language": "ENGLISH",
+  "taskNumber": 10,
+  "startTimeWatching": "2024-02-07T13:42:43.638Z",
+  "endTimeWatching": "2024-02-07T13:44:05.970Z",
+  "timeWatching": 82332,
+  "startTimeDrawing": "2024-02-07T13:44:05.970Z",
+  "endTimeDrawing": "2024-02-07T13:44:52.883Z",
+  "timeDrawing": 46913
+}

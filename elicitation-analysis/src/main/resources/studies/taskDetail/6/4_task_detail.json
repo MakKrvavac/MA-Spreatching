@@ -1,0 +1,15 @@
+{
+  "id": 6,
+  "title": "Remove column",
+  "description": "Remove the whole column B from the table.",
+  "group": "A",
+  "resets": 0,
+  "language": "ENGLISH",
+  "taskNumber": 3,
+  "startTimeWatching": "2024-02-07T13:32:56.965Z",
+  "endTimeWatching": "2024-02-07T13:33:25.719Z",
+  "timeWatching": 28754,
+  "startTimeDrawing": "2024-02-07T13:33:25.719Z",
+  "endTimeDrawing": "2024-02-07T13:33:29.108Z",
+  "timeDrawing": 3389
+}

@@ -1,0 +1,15 @@
+{
+  "id": 14,
+  "title": "Serie fortführen",
+  "description": "Führen Sie die Serie von Werten in Zeile 6 (E6-J6) bis zur Zelle M6 fort.",
+  "group": "B",
+  "resets": 0,
+  "language": "GERMAN",
+  "taskNumber": 13,
+  "startTimeWatching": "2024-03-18T00:27:34.908Z",
+  "endTimeWatching": "2024-03-18T00:28:13.097Z",
+  "timeWatching": 38189,
+  "startTimeDrawing": "2024-03-18T00:28:13.097Z",
+  "endTimeDrawing": "2024-03-18T00:28:17.884Z",
+  "timeDrawing": 4787
+}

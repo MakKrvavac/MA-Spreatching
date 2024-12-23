@@ -1,0 +1,15 @@
+{
+  "id": 5,
+  "title": "Insert column",
+  "description": "Insert a new column between columns B and C.",
+  "group": "A",
+  "resets": 0,
+  "language": "ENGLISH",
+  "taskNumber": 6,
+  "startTimeWatching": "2024-02-07T15:33:22.343Z",
+  "endTimeWatching": "2024-02-07T15:33:49.145Z",
+  "timeWatching": 26802,
+  "startTimeDrawing": "2024-02-07T15:33:49.145Z",
+  "endTimeDrawing": "2024-02-07T15:33:53.568Z",
+  "timeDrawing": 4423
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11,
+  "title": "Transfer formatting",
+  "description": "Transfer the formatting of cell A13 to cells E13-J13.",
+  "group": "B",
+  "resets": 0,
+  "language": "ENGLISH",
+  "taskNumber": 12,
+  "startTimeWatching": "2023-12-28T17:23:10.204Z",
+  "endTimeWatching": "2023-12-28T17:25:47.608Z",
+  "timeWatching": 157404,
+  "startTimeDrawing": "2023-12-28T17:25:47.608Z",
+  "endTimeDrawing": "2023-12-28T17:26:19.559Z",
+  "timeDrawing": 31951
+}

@@ -1,0 +1,15 @@
+{
+  "id": 18,
+  "title": "Construct formula",
+  "description": "For each employee, calculate the gross hourly rate in column D by factoring the overhead cost percentage from cell C15 into the net hourly rate in column C.",
+  "group": "C",
+  "resets": 5,
+  "language": "ENGLISH",
+  "taskNumber": 19,
+  "startTimeWatching": "2024-01-22T18:08:00.259Z",
+  "endTimeWatching": "2024-01-22T18:08:27.253Z",
+  "timeWatching": 26994,
+  "startTimeDrawing": "2024-01-22T18:08:27.253Z",
+  "endTimeDrawing": "2024-01-22T18:08:30.466Z",
+  "timeDrawing": 3213
+}

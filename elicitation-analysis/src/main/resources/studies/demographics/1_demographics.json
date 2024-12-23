@@ -1,0 +1,11 @@
+{
+  "gender": "female",
+  "age": "30-40",
+  "leftHandedOrRightHanded": "right",
+  "ownATablet": true,
+  "useTablet": "Internet",
+  "usePencil": true,
+  "useSpreadsheets": false,
+  "anyExperience": false,
+  "useSpreadsheetsMultiTouch": true
+}

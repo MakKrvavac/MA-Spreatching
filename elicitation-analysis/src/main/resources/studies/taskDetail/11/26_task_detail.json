@@ -1,0 +1,15 @@
+{
+  "id": 11,
+  "title": "Formatierung übertragen",
+  "description": "Übertragen Sie die Formatierung der Zelle A13 auf die Zellen E13-J13.",
+  "group": "B",
+  "resets": 2,
+  "language": "GERMAN",
+  "taskNumber": 11,
+  "startTimeWatching": "2023-11-30T14:51:58.303Z",
+  "endTimeWatching": "2023-11-30T14:52:06.127Z",
+  "timeWatching": 7824,
+  "startTimeDrawing": "2023-11-30T14:52:06.127Z",
+  "endTimeDrawing": "2023-11-30T14:52:10.877Z",
+  "timeDrawing": 4750
+}

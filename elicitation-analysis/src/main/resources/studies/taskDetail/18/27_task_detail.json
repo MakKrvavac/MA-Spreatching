@@ -1,0 +1,15 @@
+{
+  "id": 18,
+  "title": "Formel konstruieren",
+  "description": "Berechnen Sie für jeden Mitarbeiter den Brutto-Stundensatz in Spalte D, indem Sie die Arbeitgeberkostenpauschale aus Zelle C15 auf den Netto-Stundensatz in Spalte C aufschlagen.",
+  "group": "C",
+  "resets": 4,
+  "language": "GERMAN",
+  "taskNumber": 20,
+  "startTimeWatching": "2024-01-30T18:11:15.629Z",
+  "endTimeWatching": "2024-01-30T18:12:08.522Z",
+  "timeWatching": 52893,
+  "startTimeDrawing": "2024-01-30T18:12:08.522Z",
+  "endTimeDrawing": "2024-01-30T18:12:11.298Z",
+  "timeDrawing": 2776
+}

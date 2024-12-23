@@ -1,0 +1,15 @@
+{
+  "id": 6,
+  "title": "Spalte entfernen",
+  "description": "Entfernen Sie die gesamte Spalte B aus der Tabelle.",
+  "group": "A",
+  "resets": 0,
+  "language": "GERMAN",
+  "taskNumber": 3,
+  "startTimeWatching": "2024-02-04T18:44:39.076Z",
+  "endTimeWatching": "2024-02-04T18:44:57.617Z",
+  "timeWatching": 18541,
+  "startTimeDrawing": "2024-02-04T18:44:57.617Z",
+  "endTimeDrawing": "2024-02-04T18:44:59.538Z",
+  "timeDrawing": 1921
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8,
+  "title": "Mehrere Werte addieren",
+  "description": "Berechnen Sie die Summe der Zellen E7-E11 in Zelle E13.",
+  "group": "B",
+  "resets": 0,
+  "language": "GERMAN",
+  "taskNumber": 10,
+  "startTimeWatching": "2024-03-18T00:24:55.246Z",
+  "endTimeWatching": "2024-03-18T00:26:08.562Z",
+  "timeWatching": 73316,
+  "startTimeDrawing": "2024-03-18T00:26:08.562Z",
+  "endTimeDrawing": "2024-03-18T00:26:10.855Z",
+  "timeDrawing": 2293
+}

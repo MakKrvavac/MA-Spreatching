@@ -1,0 +1,15 @@
+{
+  "id": 7,
+  "title": "Zellen verschieben",
+  "description": "Verschieben Sie die Zellen A15-C15 nach H3.",
+  "group": "A",
+  "resets": 0,
+  "language": "GERMAN",
+  "taskNumber": 5,
+  "startTimeWatching": "2024-03-18T22:18:26.403Z",
+  "endTimeWatching": "2024-03-18T22:18:50.071Z",
+  "timeWatching": 23668,
+  "startTimeDrawing": "2024-03-18T22:18:50.071Z",
+  "endTimeDrawing": "2024-03-18T22:18:51.731Z",
+  "timeDrawing": 1660
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4,
+  "title": "Add two values",
+  "description": "Calculate the sum of cells I8 and J8 in cell K8.",
+  "group": "A",
+  "resets": 0,
+  "language": "ENGLISH",
+  "taskNumber": 5,
+  "startTimeWatching": "2024-01-29T10:56:00.589Z",
+  "endTimeWatching": "2024-01-29T10:56:24.495Z",
+  "timeWatching": 23906,
+  "startTimeDrawing": "2024-01-29T10:56:24.495Z",
+  "endTimeDrawing": "2024-01-29T10:56:29.207Z",
+  "timeDrawing": 4712
+}

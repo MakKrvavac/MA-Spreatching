@@ -1,0 +1,15 @@
+{
+  "id": 5,
+  "title": "Spalte einfügen",
+  "description": "Fügen Sie eine neue Spalte zwischen den Spalten B und C ein.",
+  "group": "A",
+  "resets": 0,
+  "language": "GERMAN",
+  "taskNumber": 6,
+  "startTimeWatching": "2024-03-19T00:27:48.274Z",
+  "endTimeWatching": "2024-03-19T00:27:51.696Z",
+  "timeWatching": 3422,
+  "startTimeDrawing": "2024-03-19T00:27:51.696Z",
+  "endTimeDrawing": "2024-03-19T00:27:53.788Z",
+  "timeDrawing": 2092
+}

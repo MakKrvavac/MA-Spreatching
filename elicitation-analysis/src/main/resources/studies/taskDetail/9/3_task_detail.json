@@ -1,0 +1,15 @@
+{
+  "id": 9,
+  "title": "Format values",
+  "description": "Format the values in cells C7-C11 as Dollar amounts with two decimal places.",
+  "group": "B",
+  "resets": 0,
+  "language": "ENGLISH",
+  "taskNumber": 9,
+  "startTimeWatching": "2024-01-10T10:06:17.578Z",
+  "endTimeWatching": "2024-01-10T10:06:37.511Z",
+  "timeWatching": 19933,
+  "startTimeDrawing": "2024-01-10T10:06:37.511Z",
+  "endTimeDrawing": "2024-01-10T10:06:41.922Z",
+  "timeDrawing": 4411
+}

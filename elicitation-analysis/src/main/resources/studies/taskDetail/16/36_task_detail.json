@@ -1,0 +1,15 @@
+{
+  "id": 16,
+  "title": "Daten sortieren",
+  "description": "Sortieren Sie die Daten in den Zeilen 7-11 alphabetisch nach den Mitarbeiternamen in Spalte A.",
+  "group": "C",
+  "resets": 2,
+  "language": "GERMAN",
+  "taskNumber": 16,
+  "startTimeWatching": "2024-03-19T00:35:13.190Z",
+  "endTimeWatching": "2024-03-19T00:35:30.969Z",
+  "timeWatching": 17779,
+  "startTimeDrawing": "2024-03-19T00:35:30.969Z",
+  "endTimeDrawing": "2024-03-19T00:35:34.533Z",
+  "timeDrawing": 3564
+}

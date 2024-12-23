@@ -1,0 +1,15 @@
+{
+  "id": 13,
+  "title": "Balkendiagramm erstellen",
+  "description": "Erstellen Sie ein Balkendiagramm aus den Werten der Zellen C7-C11.",
+  "group": "B",
+  "resets": 0,
+  "language": "GERMAN",
+  "taskNumber": 15,
+  "startTimeWatching": "2024-03-18T22:33:23.872Z",
+  "endTimeWatching": "2024-03-18T22:33:50.760Z",
+  "timeWatching": 26888,
+  "startTimeDrawing": "2024-03-18T22:33:50.760Z",
+  "endTimeDrawing": "2024-03-18T22:33:52.617Z",
+  "timeDrawing": 1857
+}

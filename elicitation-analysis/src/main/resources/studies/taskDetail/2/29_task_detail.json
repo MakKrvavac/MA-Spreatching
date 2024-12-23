@@ -1,0 +1,15 @@
+{
+  "id": 2,
+  "title": "Wert löschen",
+  "description": "Löschen Sie den Inhalt der Zelle E8.",
+  "group": "P",
+  "resets": 0,
+  "language": "GERMAN",
+  "taskNumber": 1,
+  "startTimeWatching": "2024-01-08T23:34:59.914Z",
+  "endTimeWatching": "2024-01-08T23:35:12.299Z",
+  "timeWatching": 12385,
+  "startTimeDrawing": "2024-01-08T23:35:12.299Z",
+  "endTimeDrawing": "2024-01-08T23:35:20.806Z",
+  "timeDrawing": 8507
+}

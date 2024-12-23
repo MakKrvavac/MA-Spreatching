@@ -1,0 +1,15 @@
+{
+  "id": 20,
+  "title": "Werte multiplizieren",
+  "description": "Berechnen Sie die Gesamtkosten für Mitarbeiter Smith in Zelle L7, indem Sie seine Gesamtstunden über alle Monate in Zeile 7 addieren und mit seinem Netto-Stundensatz in Zelle C7 multiplizieren.",
+  "group": "C",
+  "resets": 0,
+  "language": "GERMAN",
+  "taskNumber": 20,
+  "startTimeWatching": "2024-03-18T01:05:19.451Z",
+  "endTimeWatching": "2024-03-18T01:06:46.515Z",
+  "timeWatching": 87064,
+  "startTimeDrawing": "2024-03-18T01:06:46.515Z",
+  "endTimeDrawing": "2024-03-18T01:06:48.905Z",
+  "timeDrawing": 2390
+}

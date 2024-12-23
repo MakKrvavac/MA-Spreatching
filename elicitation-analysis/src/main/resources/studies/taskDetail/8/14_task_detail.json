@@ -1,0 +1,15 @@
+{
+  "id": 8,
+  "title": "Add multiple values",
+  "description": "Calculate the sum of cells E7-E11 in cell E13.",
+  "group": "B",
+  "resets": 0,
+  "language": "ENGLISH",
+  "taskNumber": 9,
+  "startTimeWatching": "2023-12-28T17:18:26.069Z",
+  "endTimeWatching": "2023-12-28T17:19:07.977Z",
+  "timeWatching": 41908,
+  "startTimeDrawing": "2023-12-28T17:19:07.977Z",
+  "endTimeDrawing": "2023-12-28T17:19:13.342Z",
+  "timeDrawing": 5365
+}

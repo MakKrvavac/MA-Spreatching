@@ -1,0 +1,15 @@
+{
+  "id": 10,
+  "title": "Frame cell",
+  "description": "Add a single frame around cells A15-C15.",
+  "group": "B",
+  "resets": 0,
+  "language": "ENGLISH",
+  "taskNumber": 15,
+  "startTimeWatching": "2023-12-16T14:25:40.419Z",
+  "endTimeWatching": "2023-12-16T14:25:50.707Z",
+  "timeWatching": 10288,
+  "startTimeDrawing": "2023-12-16T14:25:50.707Z",
+  "endTimeDrawing": "2023-12-16T14:25:51.812Z",
+  "timeDrawing": 1105
+}

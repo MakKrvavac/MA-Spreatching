@@ -1,0 +1,15 @@
+{
+  "id": 4,
+  "title": "Zwei Werte addieren",
+  "description": "Berechnen Sie die Summe der Zellen I8 und J8 in Zelle K8.",
+  "group": "A",
+  "resets": 1,
+  "language": "GERMAN",
+  "taskNumber": 6,
+  "startTimeWatching": "2024-03-18T22:20:29.535Z",
+  "endTimeWatching": "2024-03-18T22:20:44.171Z",
+  "timeWatching": 14636,
+  "startTimeDrawing": "2024-03-18T22:20:44.171Z",
+  "endTimeDrawing": "2024-03-18T22:20:44.936Z",
+  "timeDrawing": 765
+}

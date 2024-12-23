@@ -1,0 +1,11 @@
+{
+  "gender": "male",
+  "age": "18-24",
+  "leftHandedOrRightHanded": "right",
+  "ownATablet": false,
+  "useTablet": "",
+  "usePencil": false,
+  "useSpreadsheets": false,
+  "anyExperience": false,
+  "useSpreadsheetsMultiTouch": false
+}

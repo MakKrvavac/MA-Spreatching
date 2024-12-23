@@ -1,0 +1,15 @@
+{
+  "id": 9,
+  "title": "Werte formatieren",
+  "description": "Formatieren Sie die Werte in den Zellen C7-C11 als Euro-Beträge mit zwei Nachkommastellen.",
+  "group": "B",
+  "resets": 0,
+  "language": "GERMAN",
+  "taskNumber": 13,
+  "startTimeWatching": "2024-03-18T00:58:56.523Z",
+  "endTimeWatching": "2024-03-18T00:59:57.878Z",
+  "timeWatching": 61355,
+  "startTimeDrawing": "2024-03-18T00:59:57.878Z",
+  "endTimeDrawing": "2024-03-18T00:59:59.788Z",
+  "timeDrawing": 1910
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20,
+  "title": "Multiply values",
+  "description": "Calculate the total salary of employee Smith in cell L7.",
+  "group": "C",
+  "resets": 0,
+  "language": "ENGLISH",
+  "taskNumber": 19,
+  "startTimeWatching": "2024-02-07T14:01:05.705Z",
+  "endTimeWatching": "2024-02-07T14:02:45.813Z",
+  "timeWatching": 100108,
+  "startTimeDrawing": "2024-02-07T14:02:45.813Z",
+  "endTimeDrawing": "2024-02-07T14:02:50.189Z",
+  "timeDrawing": 4376
+}

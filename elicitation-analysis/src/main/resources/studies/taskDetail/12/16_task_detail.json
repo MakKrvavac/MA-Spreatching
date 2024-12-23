@@ -1,0 +1,15 @@
+{
+  "id": 12,
+  "title": "Create pie chart",
+  "description": "Create a pie chart from the values in cells E8-J8.",
+  "group": "B",
+  "resets": 0,
+  "language": "ENGLISH",
+  "taskNumber": 8,
+  "startTimeWatching": "2024-01-12T16:18:05.645Z",
+  "endTimeWatching": "2024-01-12T16:18:50.226Z",
+  "timeWatching": 44581,
+  "startTimeDrawing": "2024-01-12T16:18:50.226Z",
+  "endTimeDrawing": "2024-01-12T16:18:56.586Z",
+  "timeDrawing": 6360
+}

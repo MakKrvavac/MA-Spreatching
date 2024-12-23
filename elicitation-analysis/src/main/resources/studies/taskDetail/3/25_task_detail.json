@@ -1,0 +1,15 @@
+{
+  "id": 3,
+  "title": "Werte löschen",
+  "description": "Löschen Sie die Inhalte der Zellen J7-J11.",
+  "group": "A",
+  "resets": 0,
+  "language": "GERMAN",
+  "taskNumber": 5,
+  "startTimeWatching": "2024-02-04T18:46:10.319Z",
+  "endTimeWatching": "2024-02-04T18:46:25.103Z",
+  "timeWatching": 14784,
+  "startTimeDrawing": "2024-02-04T18:46:25.103Z",
+  "endTimeDrawing": "2024-02-04T18:46:26.643Z",
+  "timeDrawing": 1540
+}

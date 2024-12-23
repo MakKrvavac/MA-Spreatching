@@ -1,0 +1,15 @@
+{
+  "id": 19,
+  "title": "Conditional formatting",
+  "description": "Define a conditional formatting rule for cells C7-11 so values greater than 200 are displayed in red but others in green.",
+  "group": "C",
+  "resets": 3,
+  "language": "ENGLISH",
+  "taskNumber": 18,
+  "startTimeWatching": "2024-01-22T18:05:59.236Z",
+  "endTimeWatching": "2024-01-22T18:06:13.229Z",
+  "timeWatching": 13993,
+  "startTimeDrawing": "2024-01-22T18:06:13.229Z",
+  "endTimeDrawing": "2024-01-22T18:06:54.040Z",
+  "timeDrawing": 40811
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15,
+  "title": "Werte transponieren",
+  "description": "Transponieren Sie die Namen in Zellen A7-A11 nach Zeile 17 (d.h. übertragen Sie die in Spalte A untereinander stehenden Namen nebeneinander stehend in Zeile 17).",
+  "group": "B",
+  "resets": 1,
+  "language": "GERMAN",
+  "taskNumber": 12,
+  "startTimeWatching": "2024-01-08T18:44:51.905Z",
+  "endTimeWatching": "2024-01-08T18:45:08.573Z",
+  "timeWatching": 16668,
+  "startTimeDrawing": "2024-01-08T18:45:08.573Z",
+  "endTimeDrawing": "2024-01-08T18:45:14.253Z",
+  "timeDrawing": 5680
+}

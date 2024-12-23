@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "title": "Wert ändern",
+  "description": "Tragen Sie den Wert 100 in die Zelle F9 ein.",
+  "group": "P",
+  "resets": 0,
+  "language": "GERMAN",
+  "taskNumber": 2,
+  "startTimeWatching": "2024-01-08T23:35:29.154Z",
+  "endTimeWatching": "2024-01-08T23:35:44.543Z",
+  "timeWatching": 15389,
+  "startTimeDrawing": "2024-01-08T23:35:44.543Z",
+  "endTimeDrawing": "2024-01-08T23:35:47.445Z",
+  "timeDrawing": 2902
+}
